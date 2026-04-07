@@ -76,7 +76,6 @@ matches_data = {
         ("DEFENSIVE DUEL LOST", 66.32, 60.28, None),
         # Interceptações + Recoveries
         ("INTERCEPTION", 34.90, 34.02, None),
-        ("INTERCEPTION", 56.34, 42.66, None),
         ("INTERCEPTION", 68.15, 54.30, None),
     ],
 }
