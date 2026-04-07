@@ -32,10 +32,9 @@ matches_data = {
         ("DEFENSIVE DUEL LOST", 3.48, 72.42, None),
         # Intercepts + Recoveries
         ("INTERCEPTION", 85.27, 34.85, None),
-        ("INTERCEPTION", 65.32, 27.37, None),
-        ("INTERCEPTION", 76.46, 10.08, None),
-        ("INTERCEPTION", 85.43, 57.79, None),
-        ("INTERCEPTION", 59.83, 61.28, None),
+        ("INTERCEPTION", 65.32, 27.37, None), 
+        ("INTERCEPTION", 85.43, 57.79, None), 
+   
     ],
     "Vs Nashville": [
         # Duelos Vencidos
@@ -56,19 +55,12 @@ matches_data = {
         ("DEFENSIVE DUEL LOST", 65.15, 64.44, None),
         ("DEFENSIVE DUEL LOST", 87.93, 54.63, None),
         # Intercepts + Recoveries
-        ("INTERCEPTION", 5.81, 19.39, None),
-        ("INTERCEPTION", 27.58, 11.41, None),
         ("INTERCEPTION", 35.73, 10.24, None),
-        ("INTERCEPTION", 54.85, 11.74, None),
-        ("INTERCEPTION", 67.48, 6.59, None),
+        ("INTERCEPTION", 54.85, 11.74, None), 
         ("INTERCEPTION", 84.10, 28.53, None),
-        ("INTERCEPTION", 109.87, 7.75, None),
         ("INTERCEPTION", 68.48, 58.12, None),
-        ("INTERCEPTION", 79.45, 62.61, None),
-        ("INTERCEPTION", 76.62, 67.10, None),
-        ("INTERCEPTION", 15.78, 57.79, None),
-        ("INTERCEPTION", 29.08, 56.79, None),
-        ("INTERCEPTION", 18.44, 77.40, None),
+        ("INTERCEPTION", 79.45, 62.61, None), 
+        ("INTERCEPTION", 76.62, 67.10, None), 
     ],
     "Vs Seongnam": [
         # Duelo Perdido
